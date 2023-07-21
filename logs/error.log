@@ -1,0 +1,84 @@
+2023/07/21 16:27:43 [emerg] 5116#12892: CreateFile() "C:\Users\nikol\Desktop\GitHub\InternProject\Nginx-RTMP-Server/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2023/07/21 16:27:43 [emerg] 10476#10288: CreateFile() "C:\Users\nikol\Desktop\GitHub\InternProject\Nginx-RTMP-Server/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2023/07/21 16:27:44 [emerg] 2084#2108: CreateFile() "C:\Users\nikol\Desktop\GitHub\InternProject\Nginx-RTMP-Server/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2023/07/21 16:27:44 [emerg] 10440#5076: CreateFile() "C:\Users\nikol\Desktop\GitHub\InternProject\Nginx-RTMP-Server/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2023/07/21 16:28:09 [notice] 9340#5528: signal process started (quit)
+2023/07/21 16:28:09 [error] 9340#5528: CreateFile() "C:\Users\nikol\Desktop\GitHub\InternProject\Nginx-RTMP-Server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/07/21 16:28:09 [notice] 6356#6744: sockinit() attempting to access sockapi
+2023/07/21 16:28:09 [notice] 6356#6744: Access to sockapi succeded!
+2023/07/21 16:28:09 [notice] 6356#6744: using sockapi from "4;"
+2023/07/21 16:28:09 [notice] 5448#10228: sockinit() attempting to access sockapi
+2023/07/21 16:28:09 [notice] 5448#10228: Access to sockapi succeded!
+2023/07/21 16:28:09 [notice] 5448#10228: using sockapi from "4;"
+2023/07/21 16:29:41 [emerg] 14372#11864: CreateFile() "C:\Users\nikol\Desktop\GitHub\InternProject\Nginx-RTMP-Server/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2023/07/21 16:30:20 [notice] 3664#12484: signal process started (quit)
+2023/07/21 16:30:30 [notice] 14704#21804: signal process started (quit)
+2023/07/21 16:30:30 [error] 14704#21804: CreateFile() "C:\Users\nikol\Desktop\GitHub\InternProject\Nginx-RTMP-Server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/07/21 16:30:30 [notice] 21984#21560: sockinit() attempting to access sockapi
+2023/07/21 16:30:30 [notice] 21984#21560: Access to sockapi succeded!
+2023/07/21 16:30:30 [notice] 21984#21560: using sockapi from "4;"
+2023/07/21 16:30:30 [notice] 2308#6408: sockinit() attempting to access sockapi
+2023/07/21 16:30:30 [notice] 2308#6408: Access to sockapi succeded!
+2023/07/21 16:30:30 [notice] 2308#6408: using sockapi from "4;"
+2023/07/21 16:30:30 [notice] 2716#7348: signal process started (quit)
+2023/07/21 16:30:31 [notice] 9768#4516: signal process started (quit)
+2023/07/21 16:30:31 [notice] 6696#13948: Fatal: wait for sockapi failed
+2023/07/21 16:30:58 [notice] 9428#22340: signal process started (quit)
+2023/07/21 16:30:58 [error] 9428#22340: CreateFile() "C:\Users\nikol\Desktop\GitHub\InternProject\Nginx-RTMP-Server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/07/21 16:30:58 [notice] 14224#17736: sockinit() attempting to access sockapi
+2023/07/21 16:30:58 [notice] 14224#17736: Access to sockapi succeded!
+2023/07/21 16:30:58 [notice] 14224#17736: using sockapi from "4;"
+2023/07/21 16:30:58 [notice] 1584#4116: sockinit() attempting to access sockapi
+2023/07/21 16:30:58 [notice] 1584#4116: Access to sockapi succeded!
+2023/07/21 16:30:58 [notice] 1584#4116: using sockapi from "4;"
+2023/07/21 16:31:26 [notice] 6628#12824: signal process started (quit)
+2023/07/21 16:33:11 [notice] 2612#1620: signal process started (quit)
+2023/07/21 16:33:11 [error] 2612#1620: CreateFile() "C:\Users\nikol\Desktop\GitHub\InternProject\Nginx-RTMP-Server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/07/21 16:33:11 [notice] 17948#13320: sockinit() attempting to access sockapi
+2023/07/21 16:33:11 [notice] 17948#13320: Access to sockapi succeded!
+2023/07/21 16:33:11 [notice] 17948#13320: using sockapi from "4;"
+2023/07/21 16:33:11 [notice] 12400#2336: sockinit() attempting to access sockapi
+2023/07/21 16:33:11 [notice] 12400#2336: Access to sockapi succeded!
+2023/07/21 16:33:11 [notice] 12400#2336: using sockapi from "4;"
+2023/07/21 16:33:31 [notice] 5352#7116: signal process started (quit)
+2023/07/21 16:33:31 [notice] 18456#6260: sockinit() attempting to access sockapi
+2023/07/21 16:33:31 [notice] 18456#6260: Access to sockapi succeded!
+2023/07/21 16:33:31 [notice] 18456#6260: using sockapi from "4;"
+2023/07/21 16:33:32 [notice] 19708#17728: sockinit() attempting to access sockapi
+2023/07/21 16:33:32 [notice] 19708#17728: Access to sockapi succeded!
+2023/07/21 16:33:32 [notice] 19708#17728: using sockapi from "4;"
+2023/07/21 16:33:32 [notice] 16412#11984: signal process started (quit)
+2023/07/21 16:33:47 [notice] 13496#14524: signal process started (quit)
+2023/07/21 16:33:47 [error] 13496#14524: CreateFile() "C:\Users\nikol\Desktop\GitHub\InternProject\Nginx-RTMP-Server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/07/21 16:33:47 [notice] 1436#10864: sockinit() attempting to access sockapi
+2023/07/21 16:33:47 [notice] 1436#10864: Access to sockapi succeded!
+2023/07/21 16:33:47 [notice] 1436#10864: using sockapi from "4;"
+2023/07/21 16:33:47 [notice] 5384#11504: sockinit() attempting to access sockapi
+2023/07/21 16:33:47 [notice] 5384#11504: Access to sockapi succeded!
+2023/07/21 16:33:47 [notice] 5384#11504: using sockapi from "4;"
+2023/07/21 16:33:48 [notice] 13272#21880: signal process started (quit)
+2023/07/21 16:34:24 [notice] 13452#15288: signal process started (quit)
+2023/07/21 16:34:24 [error] 13452#15288: CreateFile() "C:\Users\nikol\Desktop\GitHub\InternProject\Nginx-RTMP-Server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/07/21 16:34:24 [notice] 12556#19036: sockinit() attempting to access sockapi
+2023/07/21 16:34:24 [notice] 12556#19036: Access to sockapi succeded!
+2023/07/21 16:34:24 [notice] 12556#19036: using sockapi from "4;"
+2023/07/21 16:34:24 [notice] 7596#21564: sockinit() attempting to access sockapi
+2023/07/21 16:34:24 [notice] 7596#21564: Access to sockapi succeded!
+2023/07/21 16:34:24 [notice] 7596#21564: using sockapi from "4;"
+2023/07/21 16:34:25 [notice] 4036#19880: signal process started (quit)
+2023/07/21 16:34:49 [notice] 3100#22276: signal process started (quit)
+2023/07/21 16:34:49 [error] 3100#22276: CreateFile() "C:\Users\nikol\Desktop\GitHub\InternProject\Nginx-RTMP-Server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/07/21 16:34:49 [notice] 11324#12176: sockinit() attempting to access sockapi
+2023/07/21 16:34:49 [notice] 11324#12176: Access to sockapi succeded!
+2023/07/21 16:34:49 [notice] 11324#12176: using sockapi from "4;"
+2023/07/21 16:34:49 [notice] 2180#9624: sockinit() attempting to access sockapi
+2023/07/21 16:34:49 [notice] 2180#9624: Access to sockapi succeded!
+2023/07/21 16:34:49 [notice] 2180#9624: using sockapi from "4;"
+2023/07/21 16:34:50 [notice] 3948#3608: signal process started (quit)
+2023/07/21 16:34:58 [notice] 1564#10860: sockinit() attempting to access sockapi
+2023/07/21 16:34:58 [notice] 1564#10860: Access to sockapi succeded!
+2023/07/21 16:34:58 [notice] 1564#10860: using sockapi from "4;"
+2023/07/21 16:34:58 [notice] 11340#16564: sockinit() attempting to access sockapi
+2023/07/21 16:34:58 [notice] 11340#16564: Access to sockapi succeded!
+2023/07/21 16:34:58 [notice] 11340#16564: using sockapi from "4;"
+2023/07/21 16:35:46 [notice] 5252#21876: signal process started (quit)

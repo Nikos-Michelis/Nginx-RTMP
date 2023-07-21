@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Media Player</title>
+
+	  <link href="/js/video-js.css" rel="stylesheet" />
+    <!-- load CSS -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">
+    <!-- Google web font "Open Sans" -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- https://getbootstrap.com/ -->
+    <link rel="stylesheet" href="css/templatemo-style.css">
+    <!-- Templatemo style -->
+</head>
+
+<body >
+<div id="preloader">
+ </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 colorBackgroundHeader ">
+                <header class="text-center tm-site-header"><h1 class="positionLogoB">Bottle Company</h1></header>
+                </header>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="tm-video-container">
+
+                        <video  class="video-js tm-welcome-video tm-welcome-video-B" controls autoplay="autoplay" loop muted  data-setup="{}">
+                          <source  src="/hls/1080.m3u8" type="application/vnd.apple.mpegurl" />
+                        </video>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container tm-container-2">
+
+        <!-- Footer -->
+        <footer class="row mt-5 mb-5 ftrA">
+            <div class="col-lg-12 ">
+                <hr>
+                <p class="text-center tm-text-gray tm-copyright-text mb-0">
+                    Application to broadcast media files <span class="tm-current-year"><script>document.write(new Date().getFullYear())</script></span> </p>
+           </div>
+        </footer>
+    </div>
+    <!-- .container -->
+    <script src="/js/video.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/templatemo-script.js"></script>
+    <script>
+        $(window).on("load",function(){
+      $("#preloader").fadeOut("slow");
+    });
+   </script>
+</body>
+</html>
